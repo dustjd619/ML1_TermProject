@@ -1,7 +1,6 @@
 # ML1_TermProject
 
-2025-1 Machine Learning 1_Term Project  
-🔥 산불 발생 데이터 예측 프로젝트
+2025-1 Machine Learning 1_Term Project  - 🔥 산불 발생 데이터 예측 프로젝트
 
 ---
 
